@@ -2,6 +2,7 @@
     "name": "mrkody/payanyway",
     "description": "PHP library for PayAnyWay payment system",
     "keywords": ["mrkody", "payanyway", "payment"],
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -9,6 +10,10 @@
             "email": "kody1994@mail.ru"
         }
     ],
+    "support": {
+        "source": "https://github.com/mrkody/payanyway",
+        "issues": "https://github.com/mrkody/payanyway/issues"
+    },
     "require": {
         "php": ">=5.4.0"
     },
