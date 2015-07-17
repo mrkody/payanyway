@@ -1,0 +1,20 @@
+{
+    "name": "mrkody/payanyway",
+    "description": "PHP library for PayAnyWay payment system",
+    "keywords": ["mrkody", "payanyway", "payment"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mrkody",
+            "email": "kody1994@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mrkody\\Payanyway\\": "src/"
+        }
+    }
+}
