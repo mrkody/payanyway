@@ -21,5 +21,6 @@
         "psr-4": {
             "Mrkody\\Payanyway\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
